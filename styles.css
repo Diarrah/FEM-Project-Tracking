@@ -135,7 +135,7 @@ small {
     position: fixed;
     right: 0;
 }
-.devices__img { height: 397px; width: 821px; }
+.devices__img { height: 303px; width: 698px; }
 
 /* MQs */
 @media screen and (min-width: 2100px) {
