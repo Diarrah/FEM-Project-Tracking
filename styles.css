@@ -135,7 +135,10 @@ small {
     position: fixed;
     right: 0;
 }
-.devices__img { height: 302px; width: 624px; }
+.devices__img { 
+    height: 325px; width: 672px; 
+    transform: translateX(8%);
+    }
 
 /* MQs */
 @media screen and (min-width: 2100px) {
