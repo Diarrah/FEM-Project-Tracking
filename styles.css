@@ -44,11 +44,7 @@ body::after {
     border-bottom-left-radius: 100px;
 }
 
-main {
-    display: flex;
-    align-items: center;
-    height: calc(100vh - 150px);
-}
+main { margin-top: 85px; }
 
 .container {
     display: flex;
@@ -225,6 +221,7 @@ small {
 @media screen and (max-width: 425px) {
     h1 { font-size: 45px; }
     .container { padding-left: 20px; }
+    .logo { height: 25px; width: 25px; }
     .btn { 
         margin-right: 10px;
         padding: 8px 20px;
