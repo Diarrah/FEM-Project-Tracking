@@ -44,7 +44,7 @@ body::after {
     border-bottom-left-radius: 100px;
 }
 
-main { margin-top: 65px; }
+main { margin-top: 50px; }
 
 .container {
     display: flex;
